@@ -12,3 +12,11 @@
   9.what is custom event?<br>
   10.Hello world program in node js?<br>
   11.What is HTML5 and what is new in it ? <br>
+  12.git stash
+  13.callback
+  14.callback hell
+  15.program of date diff
+  16.echo, printR and var_dumb - php
+  17.combine and merge - php
+  18.primary vs unique
+  19.
