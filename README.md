@@ -19,4 +19,3 @@
   16.echo, printR and var_dumb - php
   17.combine and merge - php
   18.primary vs unique
-  19.
